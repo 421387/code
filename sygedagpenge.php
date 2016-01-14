@@ -3,8 +3,7 @@
   "@context": "http://schema.org",
   "@type": "GovernmentService",
   "name": "Sygedagpenge",
-  "description": "Kolding Kommune's sygedagpenge område. 
-                  Du kan få sygedagpenge, hvis du er ude af stand til at arbejde pga. sygdom eller fordi, du er kommet til skade.",
+  "description": "Kolding Kommune's sygedagpenge område. Du kan få sygedagpenge, hvis du er ude af stand til at arbejde pga. sygdom eller fordi, du er kommet til skade.",
   "serviceType": "Sygedagpenge",
 
   "provider": {

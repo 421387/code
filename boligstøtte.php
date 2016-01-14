@@ -3,8 +3,7 @@
 	"@context": "http://schema.org",
 	"@type": "GovernmentService",
 	"name": "Boligstøtte",
-	"description": "Boligstøtte er et tilskud til huslejen. Du kan søge boligstøtte, hvis du bor til leje. 
-					Er du folke- eller førtidspensionist, kan du også søge boligstøtte til en ejer- eller andelsbolig.",
+	"description": "Boligstøtte er et tilskud til huslejen. Du kan søge boligstøtte, hvis du bor til leje. Er du folke- eller førtidspensionist, kan du også søge boligstøtte til en ejer- eller andelsbolig.",
 	"url": "https://www.kolding.dk/borger/bolig-byggeri-flytning/boligstotte",
 	"serviceType": "Boligstøtte",
 	"offers": {
